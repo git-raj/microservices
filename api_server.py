@@ -6,7 +6,7 @@ Created on Fri Mar 23 17:53:09 2018
 @author: Saroj Lamichhane
 """
 
-#!flask/bin/python
+
 from flask import Flask, jsonify, abort, make_response, request
 import json
 
